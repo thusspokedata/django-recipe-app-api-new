@@ -27,3 +27,7 @@
     + VSCode unable to access interpreter   
     + more difficult to use integrated features
 </pre>
+
+<pre>
+<strong>psycopg2</strong> the package to connect django to our database
+</pre>
